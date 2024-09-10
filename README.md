@@ -60,6 +60,12 @@ Make sure you have node version greater than or equal to 20.\*
   npm install npm@latest -g
   ```
 
+### Publish
+
+```sh
+npm publish
+```
+
 ### Installation
 
 ```sh
