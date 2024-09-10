@@ -75,6 +75,16 @@ create-cidc-next-app
 
 ```
 
+or
+
+```sh
+npx create-cidc-next-app
+
+create-cidc-next-app
+
+```
+
+
 ### Folder Structure
 
 <ul>
