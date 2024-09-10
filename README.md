@@ -63,7 +63,10 @@ Make sure you have node version greater than or equal to 20.\*
 ### Installation
 
 ```sh
-npx create-cidc-next-app
+npm install -g create-cidc-next-app
+
+create-cidc-next-app
+
 ```
 
 ### Folder Structure
