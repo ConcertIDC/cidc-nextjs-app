@@ -1,0 +1,13 @@
+{
+  "name": "create-cidc-next-app",
+  "version": "1.4.0",
+  "description": "A CLI to scaffold a Next.js project with CIDC configurations",
+  "main": "bin/create-cidc-next-app.js",
+  "bin": {
+    "create-cidc-next-app": "./bin/create-cidc-next-app.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "fs-extra": "^10.0.0"
+  }
+}
