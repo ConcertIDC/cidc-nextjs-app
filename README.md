@@ -1,4 +1,4 @@
-# next-app
+# CIDC NextJs Starter
 
 <a name="readme-top"></a>
 
