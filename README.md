@@ -66,7 +66,7 @@ Make sure you have node version greater than or equal to 20.\*
 npm publish
 ```
 
-### Installation
+### Installation & Usage
 
 ```sh
 npm install -g create-cidc-next-app
