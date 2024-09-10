@@ -62,19 +62,8 @@ Make sure you have node version greater than or equal to 20.\*
 
 ### Installation
 
-1. Clone the repo using Github desktop or Fork or git CLI
-   git clone https://github.com/ConcertIDC/nextjs-starter
-
-2. Install the NPM package
-
 ```sh
-npm install
-```
-
-3.Run locally
-
-```sh
-npm run dev
+npx create-cidc-next-app
 ```
 
 ### Folder Structure
